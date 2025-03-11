@@ -8,5 +8,3 @@
 💡 Open to collaborating on interesting projects.
 
 🌎 You can find me on LinkedIn: Micaela Gonzalez Dardik.
-
-⚡ Fun fact: I love exploring random datasets just to find cool patterns!
