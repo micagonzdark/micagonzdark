@@ -1,10 +1,10 @@
 # About me
-📊 I like working with Python and pandas to analyze data, especially open datasets.
+Hi, I’m Micaela
 
-🔎 I’m interested in data science for social sciences and communication.
+I’m a Data Science student at the University of Buenos Aires (UBA), currently on an academic exchange at Télécom Paris (Institut Polytechnique de Paris). My interests include social complex models, data analysis, and machine learning.
 
-🚀 Always curious about unexplored topics in data.
+I analyze real-world social processes using statistical modeling, machine learning, and text analysis. Alongside my work in Python (scikit-learn, NumPy, pandas, matplotlib), I also have experience using R for NLP tasks from previous projects. My focus is on methods that reveal meaningful patterns in social behavior.
 
-💡 Open to collaborating on interesting projects.
+I’m particularly interested in applied research projects where data science can produce concrete, real-world impact.
 
-🌎 You can find me on LinkedIn: Micaela Gonzalez Dardik.
+LinkedIn: Micaela Gonzalez Dardik
