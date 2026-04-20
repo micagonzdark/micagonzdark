@@ -1,10 +1,19 @@
-# About me
-Hi, I’m Micaela
+# Hi, I'm Micaela 👋
+**Data Science Student (UBA / Télécom Paris) & Research Scholar @ Instituto del Cálculo (UBA)**
 
-I’m a Data Science student at the University of Buenos Aires (UBA), currently on an academic exchange at Télécom Paris (Institut Polytechnique de Paris). My interests include social complex models, data analysis, and machine learning.
+I specialize in analyzing complex social and systems behavior through data, from public health networks to financial markets.
 
-I analyze real-world social processes using statistical modeling, machine learning, and text analysis. Alongside my work in Python (scikit-learn, NumPy, pandas, matplotlib), I also have experience using R for NLP tasks from previous projects. My focus is on methods that reveal meaningful patterns in social behavior.
+**🛠️ Tech Stack:** Python (Polars, DuckDB, SciPy, NetworkX, Scikit-learn) | R | SQL | Marimo
 
-I’m particularly interested in applied research projects where data science can produce concrete, real-world impact.
+## 🚀 Featured Projects
 
-LinkedIn: Micaela Gonzalez Dardik
+### 🔬 Research & Academic
+* 🏥 **[RedesHospitales](https://github.com/micagonzdark/RedesHospitales):** Research on patient transfer networks in Buenos Aires. Analysis of complex graphs to optimize health system logistics. *(Instituto del Cálculo - UBA)*
+* 🗣️ **Hate Speech Detection:** NLP project using Computational Social Science methods to identify and analyze toxic speech patterns. *(Télécom Paris Exchange)*
+
+### 📈 Personal & Data Engineering
+* 📉 **[Fintech Screener](https://github.com/micagonzdark/argentinian-markets):** High-performance anomaly detection for the Argentine market using signal processing and the Modern Data Stack. *(Polars, DuckDB, SciPy)*
+* 📰 **[Wiki Scraper CLI](https://github.com/micagonzdark/argentinian-markets):** Modular terminal application for real-time news extraction and NLP trend analysis. *(Typer, BeautifulSoup)*
+
+---
+📫 **Connect with me:** [LinkedIn: Micaela Gonzalez Dardik](https://www.linkedin.com/in/micaela-gonzalez-dardik-uba-ar/?locale=es)
