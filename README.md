@@ -9,7 +9,7 @@ I specialize in analyzing complex social and systems behavior through data, from
 
 ### 🔬 Research & Academic
 * 🏥 **[RedesHospitales](https://github.com/micagonzdark/RedesHospitales):** Research on patient transfer networks in Buenos Aires. Analysis of complex graphs to optimize health system logistics. *(Instituto del Cálculo - UBA)*
-* 🗣️ **Hate Speech Detection:** NLP project using Computational Social Science methods to identify and analyze toxic speech patterns. *(Télécom Paris Exchange)*
+* 🗣️ **[Political Hate Speech Analysis](https://github.com/micagonzdark/ComputationalSocialSciences):** NLP project using Computational Social Science methods to analyze the dynamics of toxic speech and hate campaigns directed at French political figures (Macron, Le Pen, and Jordan Bardella). *(Télécom Paris Exchange)*
 
 ### 📈 Personal & Data Engineering
 * 📉 **[Fintech Screener](https://github.com/micagonzdark/argentinian-markets):** High-performance anomaly detection for the Argentine market using signal processing and the Modern Data Stack. *(Polars, DuckDB, SciPy)*
