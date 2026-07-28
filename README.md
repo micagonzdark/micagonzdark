@@ -2,7 +2,7 @@
 
 Data Science student at UBA, did an exchange at Télécom Paris, now working as a research scholar at Instituto del Cálculo.
 
-Mostly working with data around health and social systems: patient networks, hate speech online, that kind of thing. Getting more into geospatial lately. I like this stuff because it's not abstract, it's tied to real people and real systems.
+I work mostly with health and social data: patient transfer networks, online hate speech, stuff like that. Lately I've been getting into geospatial too. What I care about is working on things that actually matter to real people, not just running numbers for the sake of it.
 
 **Stack:** Python (Polars, DuckDB, SciPy, NetworkX, Scikit-learn), R, SQL, Marimo
 
