@@ -34,11 +34,4 @@ const aboutMe = {
 
 ---
 
-📊 **GitHub Stats:**
-
-![Micaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=micagonzdark&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=micagonzdark&layout=compact&theme=radical)
-
----
-
 [LinkedIn](https://www.linkedin.com/in/micaela-gonzalez-dardik-uba-ar/?locale=es)
